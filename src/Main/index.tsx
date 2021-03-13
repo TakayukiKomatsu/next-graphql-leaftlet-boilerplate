@@ -1,7 +1,3 @@
-const Main = () => (
-  <main>
-    <h1>React Avançado</h1>
-  </main>
-)
+const Main = () => <h1>React Avançado</h1>
 
 export default Main
